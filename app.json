@@ -1,0 +1,16 @@
+{
+  "name": "NFT Telegram Bot",
+  "description": "Telegram бот для NFT подарков",
+  "repository": "https://github.com/yourusername/nft-bot",
+  "keywords": ["node", "telegram", "bot", "nft"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Токен Telegram бота",
+      "value": "8691480719:AAEJrEZgmMiKBjEq6DzyC1CVIUV52a07IEI"
+    },
+    "WEB_APP_URL": {
+      "description": "URL мини-приложения",
+      "value": "https://kaktizapisan.github.io/star/"
+    }
+  }
+}
