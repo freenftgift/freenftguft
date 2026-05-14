@@ -6,7 +6,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Токен Telegram бота",
-      "value": "8691480719:AAEJrEZgmMiKBjEq6DzyC1CVIUV52a07IEI"
+      "value": "8598732633:AAHZPrVqeE8mN3zaOzJRLKW0OkNg970zJU0"
     },
     "WEB_APP_URL": {
       "description": "URL мини-приложения",
